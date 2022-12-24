@@ -1,5 +1,5 @@
-import Image from "next/image";
-import styles from "../styles/Titlebar.module.css";
+import Image from 'next/image';
+import styles from '../styles/Titlebar.module.css';
 
 const Titlebar = () => {
   return (
@@ -8,8 +8,8 @@ const Titlebar = () => {
         <Image
           src="/vscode_icon.svg"
           alt="VSCode Icon"
-          width={15}
           height={15}
+          width={15}
         />
         <p>File</p>
         <p>Edit</p>
