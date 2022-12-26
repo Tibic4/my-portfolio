@@ -1,8 +1,11 @@
+import Head from '../components/Head';
+
 const ProjectsPage = () => {
   return (
-    <div>
+    <>
+      <Head title="Alton Vieira | Projects" />
       <h1>Projects Page</h1>
-    </div>
+    </>
   );
 };
 

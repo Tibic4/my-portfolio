@@ -1,8 +1,11 @@
+import Head from '../components/Head';
+
 const GithubPage = () => {
   return (
-    <div>
+    <>
+      <Head title="Alton Vieira | GitHub" />
       <h1>Github Page</h1>
-    </div>
+    </>
   );
 };
 
