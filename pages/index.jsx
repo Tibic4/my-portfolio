@@ -5,7 +5,7 @@ import styles from '../styles/HomePage.module.css';
 export default function HomePage() {
   return (
     <>
-      <Head title="Nitin Ranganath | Home" />
+      <Head title="Alton Vieira | Home" />
       <div className={styles.container}>
         <h6 className={styles.welcome}>Olá, geeks! Eu sou</h6>
         <h1 className={styles.title}>Alton Vieira</h1>
